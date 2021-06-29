@@ -9,7 +9,7 @@ I'm JCM and mostly I'm just writing small and useless Java programs :D
 - Discord: JCM#6605
 
 #### What I am currently working on
-- manipulating textures and meshes in games that don't want to be manipulated (if you are interested, write me an e-mail, I'm not sure how much of it I can publish without getting in trouble 😅)
+- manipulating textures and meshes in games that don't want to be manipulated (see [cheeky-imp](https://github.com/JnCrMx/cheeky-imp) for some tools)
 - other reverse engineering stuff, especially about Overwatch
 - a simple [Discord Bot](https://github.com/JnCrMx/ChocoBot)
 - another [Discord Bot](https://github.com/JnCrMx/VulkanBot) that takes GLSL source code and renders with it
